@@ -22,85 +22,54 @@ Core modules are as follows:
 
 ### Project Details
 
+![image](https://user-images.githubusercontent.com/81026351/111874673-34af3580-89d1-11eb-8b53-a3ee203f63c2.png)
+
+
+Essential supported functions include:
+
+Yield Strategy Dev Toolset
+Provide features like easy-to-use, visual and codeless, the module also include yield strategy contributor intensive mechanism. Funtions in other protocols supported like yield farming, liquidity mining, staking, portfolio, swap, lending...
+
+Yield Management Module
+Users of StratDAO can use the protocol for a high yield rate, and fees will be payed to strategy developers.
+
+Leverage Module 
+Like Alpha Homora in ethereum, we also provide leverage to enlarge returns for both users and strategy composer. 
+
+DAO Module
+Community will governance the whole strategies composed, and they deside which one are qualified to be listed as a valid one, we will also provide simulation and verification tools.
+
+
+
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
-
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-    - If so, how is your project different?
-    - If not, are there similar projects in related ecosystems?
+* We are aiming to help the whole Poladot DeFi users to deliver their wisdom no matter he is skilling in programing or not.
+* For Polkadot/Kusama DeFi protocols, we can boost their utilization and composability.
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- team leader: Nigel Nevin, Full stack developer
+- members:
+    - Leonard Knox, Substrate Developer
+    - Adele Bessemer, Product Manager
+    - Belinda Raman, Operation Manager 
+    - Leon Lee, project manager
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. [john@duo.com](mailto:john@duo.com))
-- **Website:**
+- **Contact Name:** Nigel Nevin
+- **Contact Email:** ang.lee.0124@gmail.com
 
-### Legal Structure
-
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
-
-### Team's experience
-
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
-
-### Team Code Repos
-
-- [https://github.com/](https://github.com/)<your_repo_1>
-- [https://github.com/](https://github.com/)<your_repo_2>
-
-### Team LinkedIn Profiles
-
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_1>
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_2>
-
-## Development Status :open_book:
-
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/w3f/General-Grants-Program/tree/master/rfp-proposal) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Web3 Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
 
 ## Development Roadmap :nut_and_bolt:
 
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Substrate, Kusama or Polkadot. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. *Treat it as a contract*; the level of detail must be enough to later verify that the software meets the specification.
-To assist you in defining it, we have created a document with examples for some grant categories [here](https://www.notion.so/src/grant_guidelines_per_category.md).
-- include the amount of funding requested *per milestone*.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone, and include the approximate number of days along with the cost per day.
-- *Deliverables 0a-0d are mandatory* and shall not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish under the terms of the license of the respective project and that you highlight this fact in your milestone documentation and in the source code if applicable! Teams that submit others' work without attributing it will be immediately terminated.
-
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):** Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-- **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k for initial grants* and $100k for follow-up grants. (e.g. 12,000 USD)
+- **Total Estimated Duration:** 9 weeks
+- **Full-Time Equivalent (FTE):** 4 FTE
+- **Total Costs:** 20K DAI
 
 ### Milestone 1 Example — Implement Substrate Modules
 
@@ -114,7 +83,7 @@ To assist you in defining it, we have created a document with examples for some 
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
-- **Costs:** 4,000 USD
+- **Costs:** 12,000 USD
 
 ...
 
